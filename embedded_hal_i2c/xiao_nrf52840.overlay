@@ -1,0 +1,6 @@
+
+/ {
+	lsm6ds3tr-c-en {
+		regulator-boot-on;
+	};
+};
